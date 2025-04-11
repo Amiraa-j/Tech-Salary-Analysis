@@ -9,7 +9,7 @@ Excel - Visualization
 SQL-Analysis
 
 ### Key insights
-  Salary Trends Over Time:
+ * Salary Trends Over Time:
    * The average global salary generally increased from 2020 to 2023.
    * However, there was a slight decrease in the average global salary in 2024.
  * Impact of Employee Count:
