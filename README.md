@@ -2,7 +2,7 @@
 ### Project Overview 
 This project involved analyzing a global technology salary dataset. SQL was used to extract and analyze data to determine key salary metrics and trends, including average salaries, salary ranges,
 and salary variations across job titles, countries, experience levels, employment types, and company sizes. The results were visualized using Excel.
-				[Tech Salary Analysis dashboard image 1](https://github.com/user-attachments/assets/0acaed35-5341-401e-a5e8-7cf18c14f1f6)
+				[Tech Salary Analysis dashboard image 1](https://raw.githubusercontent.com/Amiraa-j/Tech-Salary-Analysis/refs/heads/main/tech%20salary.sql)
 
 ### Tools
 Excel - Visualization
