@@ -2,7 +2,7 @@
 ### Project Overview 
 This project involved analyzing a global technology salary dataset. SQL was used to extract and analyze data to determine key salary metrics and trends, including average salaries, salary ranges,
 and salary variations across job titles, countries, experience levels, employment types, and company sizes. The results were visualized using Excel.
-				[Tech Salary Analysis dashboard image ](https://github.com/Amiraa-j/Tech-Salary-Analysis/blob/2cd000b6c36274af9fb52fdf2c43c9e825316d55/dashboard%20image.pdf)) and EDA was done using SQL [sql queries]()
+				[Tech Salary Analysis dashboard image ](https://github.com/Amiraa-j/Tech-Salary-Analysis/blob/2cd000b6c36274af9fb52fdf2c43c9e825316d55/dashboard%20image.pdf)) and EDA was done using SQL [sql queries](https://github.com/Amiraa-j/Tech-Salary-Analysis/blob/0746431799ed108adca261ef32e9177d23ab6f25/tech%20salary.sql)
 
 ### Tools
 Excel - Visualization
